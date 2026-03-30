@@ -1,0 +1,22 @@
+# Core
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+
+# PDF & Document Processing
+pypdf
+langchain
+langchain-community
+langchain-text-splitters
+
+# Embeddings & Vector Store
+sentence-transformers
+chromadb
+
+# LLM API
+openai
+
+# HTTP
+requests
