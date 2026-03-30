@@ -1,0 +1,36 @@
+# NYC Taxi data files
+*.parquet
+*.csv
+
+# ChromaDB vector database
+chroma_db/
+
+# Partitioned Parquet output
+taxi_partitioned_parquet/
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# QA results output
+nyc_transport_qa_results.json
